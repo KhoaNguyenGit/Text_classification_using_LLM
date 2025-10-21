@@ -1,4 +1,4 @@
-# Text-classification-using-LLM
+# Text-classification-using-PhoBert
 This is an academic project demonstrating **binary text classification** in Vietnamese by fine-tuning **PhoBERT**. The model classifies text into two categories, showcasing the use of modern language models for natural language understanding tasks.
 
 ## Project Files
